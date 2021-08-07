@@ -1,10 +1,13 @@
-title: UFA - TEAM | Blog แทงบอล หวย คาสิโน สล็อต บทความ
-description: > # this means to ignore newlines until "show_excerpts:"
-  UFA - TEAM | Blog แทงบอล หวย คาสิโน สล็อต บทความ
-  เป็นเว็บ ตรง มั่นคง และ ปลอดภัย สามารถเล่นได้บนมือถือ
-  พร้อมทั้งโปรโมชั่นสุดพิเสษและ กิจกรรมดีๆอีกมากมาย
+title: "UFAX24 - UFAPRO888s แทงบอล หวย คาสิโน สล็อต บทความ"  # this means to ignore newlines until "show_excerpts:"
+
+description: "แทงบอล หวย คาสิโน สล็อต บทความเป็นเว็บ ตรง มั่นคง และ ปลอดภัย สามารถเล่นได้บนมือถือ พร้อมทั้งโปรโมชั่นสุดพิเสษและ กิจกรรมดีๆอีกมากมาย UFAX24 - UFAPRO888s"
+
 baseurl: "/"
-url: https://ufapro888.netlify.app # change this URL, this is needed for generating right sitemap
+
+og:
+  locale: "th-TH"
+  image: "https://ufax24.com/wp-content/uploads/2021/06/7_820x350-Bank-2n-4.jpg"
+  url: https://ufapro888.netlify.app # change this URL, this is needed for generating right sitemap
 
 permalink: "/blog/:title/"
 
@@ -20,6 +23,8 @@ css_dir: "assets/css" # defaults to "css"
 
 highlighter: rouge
 
+
+
 collections:
   posts:
     output: true
@@ -32,8 +37,26 @@ jekyll-minifier:
   uglifier_args:
     harmony: true
 
+author: "pnck dev app"
+
+twitter:
+  username: "ufax24"
+  card: "summary"
+
+facebook:
+  app_id: "354758922780949"
+  publisher: "122949809958557"
+  admins: "100069974253888"
+  image: "https://ufax24.com/wp-content/uploads/2021/06/7_820x350-Bank-2n-4.jpg"
+
+webmaster_verifications:
+  google: "8wKoeyxcK-fwaReKe5zMDZGwmfefvbrYtLp2h9GT1gE"
+  bing: "343507645CB8E2A0D21C9D4976C705D3"
+  yandex: "439a49a8d4f17558"
+
+
 soopr:
-  publish_token: "qVe6vfoozhRTgn21G5xSnBc7" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
+  publish_token: "pt_54c4065a63e09f81569e411f91124775" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 exclude:
   - Gemfile
